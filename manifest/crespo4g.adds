@@ -1,0 +1,10 @@
+[
+   
+    {
+        "remote":       "github",
+        "account":      "CyanogenMod",
+        "repository":   "android_device_generic_goldfish",
+        "target_path":  "device/generic/goldfish",
+        "revision":     "cm-10.1"
+    }
+]
